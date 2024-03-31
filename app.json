@@ -1,7 +1,7 @@
 {
-  "name": "Ibrahim-tech@1.2.8",
-  "description": "I am Ibrahim-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/963f9c4a41319399f90be.jpg",
+  "name": "Ibrahim-md@1.2.8",
+  "description": "I am Ibrahim-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://www.youtube.com/@ibrahimmdgpt",
+  "logo": "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛"
+      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗪𝗔𝗕𝗢𝗧"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/ed324d7e76a4cd50fd96b.jpg"
+      "value": "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Africa/Nairobi"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "2ca64bb1-a4fb-42fb-a5b5-e898db1c192d",
+      "value": "7a189577-12c7-4d4f-ad22-40658fdf9471",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
