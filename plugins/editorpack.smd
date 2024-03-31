@@ -115,13 +115,13 @@ smd({
         
   let too = `*Separate the text with _:_ sign!*\n*Example : ${prefix + smd} Suhail _:_ Bot*`
   if(!mm) {
-    let str = `┌───〈 *ᴇᴅɪᴛᴏʀ ᴍᴇɴᴜ*  〉───◆
-│╭─────────────···▸
-┴│▸
-⬡│▸ ${gfxx.join(" \n⬡│▸ ")}
-┬│▸
-│╰────────────···▸▸
-└───────────────···▸
+    let str = `┌───《 *ᴇᴅɪᴛᴏʀ ᴍᴇɴᴜ*  〉───◆
+⋆╭─────────────··☪
+⋆│▸
+✵│▸ ${gfxx.join(" \n⬡│▸ ")}
+⋆│▸
+⋆╰────────────···☪
+└───────────────··☪
 
 \t *USE: _${prefix+smd}_ by replying image*
 _To get All Results with single Cmd!_
