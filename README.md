@@ -1,5 +1,5 @@
 <div align="center">
- 👑<b>IBRAHIM MD</b>👑</b>
+ 👑<b>𝗕𝗟𝗔𝗖𝗞-𝗣𝗔𝗡𝗧𝗛𝗘𝗥-𝗠𝗗</b>👑</b>
 	   
  HAVING ANY PROBLEM DM ME👉👉https://wa.me/message/74F2PC4JA4F3P1
   
@@ -8,7 +8,7 @@
 	  
 </p>
 </a>
-<h1 align="center"><b>HEY I AM KING IBRAHIM</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>HEY I AM  IBRAHIM ADAS</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
@@ -49,7 +49,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
    𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
 
     
-***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-MD/tree/main)*** 
+***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)*** 
 
 
 ### Thanks To
