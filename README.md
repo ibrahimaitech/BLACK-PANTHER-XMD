@@ -15,24 +15,28 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Always+creating+best+bots,;My+Hobby+Is+to+deploy+WhatsApp+bots,;Active+Hacker/Ready+to+hacker+any+thing,;Love+to+learn+new+stuffs..<3"></a>
 </p>
                        
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/933e3af7492a3ad2746b9.jpg" alt="01" border="0" /></a>                     
-  𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 : 𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗡𝗚𝗢𝗬𝗔
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/933e3af7492a3ad2746b9.jpg" alt="01" border="0" /></a>     
+
+  ## Join my channel for updates and get free cc
+<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
+  <img src="https://img.shields.io/badge/Support_channel-0a0a0a?style=for-the-badge&logo=wachannel&logoColor=white">
+</a>
+
+  ## 𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 : IBRAHIM ADAMS
                        
- 𝗢𝗪𝗡𝗘𝗥 𝗡𝗨𝗠𝗕𝗘𝗥 : +25410772666
+ ## 𝗢𝗪𝗡𝗘𝗥 𝗡𝗨𝗠𝗕𝗘𝗥 : +25410772666
                        
-  𝗠𝗔𝗗𝗘 𝗜𝗡 𝗞𝗘𝗡𝗬𝗔😂🇰🇪😂🤣 
+  ## 𝗠𝗔𝗗𝗘 𝗜𝗡 𝗞𝗘𝗡YA🇰🇪🇰🇪🧐🧐
   
 ## THE THREE STEPS TO MAKE THE BOT
 	
-📌 FIRST FORK THE REPO.
+## 📌 FIRST STAR AND FORK THE REPO.
 
-📌 NEXT SCAN THE QR AND TAKE THE SEASSON ID.
+## 📌 NEXT SCAN THE CODE AND TAKE THE SEASSON ID.
 
-📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.  
+## 📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.  
 
 
-NEW METHOD ADDED (SCAN SESSION WITH YOUR NUMBER)
-EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
 
 𝗦𝗖𝗔𝗡 𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗬𝗢𝗨𝗥 𝗡𝗨𝗠𝗕𝗘𝗥
         👇👇👇👇
