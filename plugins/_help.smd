@@ -1,32 +1,28 @@
-/**
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                      //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
-//                                                                                                      // 
-//                                         Ｖ：1．2．8                                                   // 
-//                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
-//                                                                                                      //
-//                                                                                                      //
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+╔══╗╔══╗ ╔═══╗╔═══╗╔╗ ╔╗╔══╗╔═╗╔═╗    ╔════╗╔═══╗╔═══╗╔╗ ╔╗    ╔═══╗╔══╗
+╚╣╠╝║╔╗║ ║╔═╗║║╔═╗║║║ ║║╚╣╠╝║║╚╝║║    ║╔╗╔╗║║╔══╝║╔═╗║║║ ║║    ║╔═╗║╚╣╠╝
+ ║║ ║╚╝╚╗║╚═╝║║║ ║║║╚═╝║ ║║ ║╔╗╔╗║    ╚╝║║╚╝║╚══╗║║ ╚╝║╚═╝║    ║║ ║║ ║║ 
+ ║║ ║╔═╗║║╔╗╔╝║╚═╝║║╔═╗║ ║║ ║║║║║║      ║║  ║╔══╝║║ ╔╗║╔═╗║    ║╚═╝║ ║║ 
+╔╣╠╗║╚═╝║║║║╚╗║╔═╗║║║ ║║╔╣╠╗║║║║║║     ╔╝╚╗ ║╚══╗║╚═╝║║║ ║║    ║╔═╗║╔╣╠╗
+╚══╝╚═══╝╚╝╚═╝╚╝ ╚╝╚╝ ╚╝╚══╝╚╝╚╝╚╝     ╚══╝ ╚═══╝╚═══╝╚╝ ╚╝    ╚╝ ╚╝╚══╝
+                                                                        
+                                                                        
+
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
-   * @version 1.2.8-pdm
+   * @project_name : BLACK PANTHER MD
+   * @author : IBRAHIM ADAMS
+   * @youtube : https://www.youtube.com/@ibrahimmdgpt
+   * @description : BLACK PANTHER MD ,A Multi-functional whatsapp user bot.
+   * @version 9.0.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
- ⛥┌┤
- */
+   * Created By Ibrahim Yech.
+   * 2024 BLACK PANTHER MD.
+*/
+
+ 
+
+let BLACK PANTHER MD = "BLACK PANTHER MD Whatsapp bot md"
+
  
   const os = require('os')
   let menus = false
@@ -36,7 +32,7 @@
   let { fancytext, tlang, tiny,bot_,alive, runtime, formatp, smsg ,getAdmin , send , react ,botpic,sleep, getBuffer ,prefix, sck1,smd,sck ,getTime ,formatDate  , groupdb,smdJson,smdBuffer, isAdmin  } = require("../lib");
   const long = String.fromCharCode(8206)
   const readmore = long.repeat(4001)
-  const sᴜʜᴀɪʟ_ᴍᴅ = require('../lib/plugins')
+  const BLACK PANTHER MD = require('../lib/plugins')
   const { Sticker, createSticker, StickerTypes } = require("wa-sticker-formatter");
   const axios = require('axios')
   const fetch = require("node-fetch");
