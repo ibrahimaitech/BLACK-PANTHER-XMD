@@ -1,9 +1,5 @@
 <div align="center">
  🐯<b>𝗕𝗟𝗔𝗖𝗞-𝗣𝗔𝗡𝗧𝗛𝗘𝗥-𝗠𝗗</b>🐯</b>
-
-### HAVING ANY PROBLEM DM ME👇👇👇
-- [WHATSAPP](https://wa.me/message/74F2PC4JA4F3P1) 	   
-
   
   
   <div align="center">
@@ -18,11 +14,13 @@
 </p>
                        
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/933e3af7492a3ad2746b9.jpg" alt="01" border="0" /></a>     
+## Join my channel for updates and get free cc
+<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-  ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
-  <img src="https://img.shields.io/badge/Support_channel-0a0a0a?style=for-the-badge&logo=wachannel&logoColor=white">
-</a>
+<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
   ## 𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 : IBRAHIM ADAMS
                        
@@ -40,32 +38,14 @@
 
 
 
-𝗦𝗖𝗔𝗡 𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗬𝗢𝗨𝗥 𝗡𝗨𝗠𝗕𝗘𝗥
-        👇👇👇👇
-	
- ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/)***
-    
-   𝗦𝗖𝗔𝗡 𝗤𝗥 👇👇
-
-
-    
-   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://ibrahim-tech-qr-1-2-1.onrender.com/)                 
-                         		 
-   
-   𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
-
-    
-***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)*** 
-
-
-### Thanks To
-- [Sam Pamday](https://github.com/Sampandey001) 
-
-
-The 𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿 is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
-
-
-<h2 align="center">  NOTICE
+## Get👇👇 pairing code and qr in the app with other information
+ <hr>
+   <a href="https://ibrahim-tech-code1-scanner-a3182bc283cc.herokuapp.com/">
+  <img src="https://img.shields.io/badge/𝗜𝗕𝗥𝗔𝗛𝗜𝗠_𝗔𝗣𝗣-0a0a0a?style=for-the-badge&logo=𝗦𝗖𝗔𝗡 𝗔𝗣𝗣&logoColor=red">
+</a>
+ <hr>
+ 
+ ## Click☝️☝️HERE To get your session
 </h2>
    
 ## 
