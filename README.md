@@ -1,7 +1,9 @@
 <div align="center">
- 👑<b>𝗕𝗟𝗔𝗖𝗞-𝗣𝗔𝗡𝗧𝗛𝗘𝗥-𝗠𝗗</b>👑</b>
-	   
- HAVING ANY PROBLEM DM ME👉👉https://wa.me/message/74F2PC4JA4F3P1
+ 🐯<b>𝗕𝗟𝗔𝗖𝗞-𝗣𝗔𝗡𝗧𝗛𝗘𝗥-𝗠𝗗</b>🐯</b>
+
+### HAVING ANY PROBLEM DM ME👇👇👇
+- [WHATSAPP](https://wa.me/message/74F2PC4JA4F3P1) 	   
+
   
   
   <div align="center">
