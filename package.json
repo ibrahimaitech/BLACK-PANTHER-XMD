@@ -1,15 +1,15 @@
 {
-   "name": "suhail-md",
+   "name": "black_panther-md",
    "version": "1.2.8-beta",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by Ibrahim Tech.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Suhail || node lib/smd.js",
-            "start": "pm2 start lib/smd.js --attach --name Suhail",
-            "stop": "pm2 stop Suhail"
+            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Ibrahim || node lib/smd.js",
+            "start": "pm2 start lib/smd.js --attach --name Ibrahim",
+            "stop": "pm2 stop Ibrahim"
    },
-   "author": "SuhailTechInfo",
+   "author": "Ibrahim Adams",
    "license" :"Apache-2.0",
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -71,8 +71,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+      "url": "git+https://github.com/Ibrahimaitec/BLACK-PANTHER-MD.git"
    },
-   "bugs": { "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues" },
-   "homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+   "bugs": { "url": "https://github.com/Ibrahimaitech/BLACK-PANTHER-MD/issues" },
+   "homepage": "https://github.com/ibrahimaitech/BLACK PANTHER MD#readme"
 }
