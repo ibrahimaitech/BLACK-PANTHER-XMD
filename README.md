@@ -1,12 +1,12 @@
 <div align="center">
- 🐯<b>𝗕𝗟𝗔𝗖𝗞-𝗣𝗔𝗡𝗧𝗛𝗘𝗥-𝗠𝗗</b>🐯</b>
+ 🐯<b>𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍:𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝘿𝘼𝙈𝙎</b>🐯</b>
   
   
   <div align="center">
 	  
 </p>
 </a>
-<h1 align="center"><b>HEY I AM  IBRAHIM ADAMS</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
@@ -52,6 +52,11 @@
 
  <hr>
  
+## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
+[`𝙎𝙐𝙃𝘼𝙄𝙇 𝙏𝙀𝘾𝙃`]
 
+[`𝙂𝙄𝙁𝙏𝙀𝘿 𝙏𝙀𝘾𝙃`]
+
+[`𝘼𝙉𝘿 𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊 𝙈𝙀 𝙏𝙊𝙊😂`]
 
 
