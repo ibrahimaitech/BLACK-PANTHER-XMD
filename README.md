@@ -49,6 +49,6 @@
 </h2>
    
 ## 
-𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿
+- ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD).***
 
 
