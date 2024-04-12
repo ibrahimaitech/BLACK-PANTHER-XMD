@@ -48,7 +48,7 @@
  ## Click☝️☝️HERE To get your session
 </h2>
 
- ## TAP 👇 TO DEPLOY ON HEROKU
+ ## TAP TO DEPLOY ON 👇 HEROKU
 ## 
 - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD).***
 
