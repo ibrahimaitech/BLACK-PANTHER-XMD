@@ -1,13 +1,7 @@
-<div align="center">
- 🐯<b>𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍:𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝘿𝘼𝙈𝙎</b>🐯</b>
-  
-  
-  <div align="center">
-	  
-</p>
-</a>
-<h1 align="center"><b>𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</a>
+<h1 align="center"><b>𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿</b>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Always+creating+best+bots,;My+Hobby+Is+to+deploy+WhatsApp+bots,;Active+Hacker/Ready+to+hacker+any+thing,;Love+to+learn+new+stuffs..<3"></a>
