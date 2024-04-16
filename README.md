@@ -7,7 +7,7 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/933e3af7492a3ad2746b9.jpg" alt="01" border="0" /></a>     
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
  ## Join my channel for updates and get free cc
 
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## STEPS TO DEPLOY YOUR BOT
 
 
