@@ -20,38 +20,37 @@
   </a>
 </p>
 
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
-  ## 𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 : IBRAHIM ADAMS
-                       
- ## 𝗢𝗪𝗡𝗘𝗥 𝗡𝗨𝗠𝗕𝗘𝗥 : +25410772666
-                       
-  ## 𝗠𝗔𝗗𝗘 𝗜𝗡 𝗞𝗘𝗡YA🇰🇪🇰🇪🧐🧐
-  
-## THE THREE STEPS TO MAKE THE BOT
-	
-## 📌 FIRST STAR AND FORK THE REPO.
+## STEPS TO DEPLOY YOUR BOT
 
-## 📌 NEXT SCAN THE CODE AND TAKE THE SEASSON ID.
 
-## 📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.  
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/fork)
+
+2, TAP ON IBRAHIM TECH APP DOWN THERE
 
 
 
- <hr>
-  
-[`𝙎𝙏𝙀𝙋 𝙊𝙉𝙀`]
+3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
 
-  <a href="https://session-id-by-ibrahim-adams-e876d9915daa.herokuapp.com/">
-  <img src="https://img.shields.io/badge/𝙏𝘼𝙋_𝙃𝙀𝙍𝙀_𝙏𝙊_𝙎𝘾𝘼𝙉_𝙎𝙀𝙎𝙎𝙄𝙊𝙉_-0a0a0a?style=for-the-badge&logo=𝗦𝗖𝗔𝗡 𝗔𝗣𝗣&logoColor=red">
-</a>
 
-[`𝙎𝙏𝙀𝙋 𝙏𝙒𝙊`]
 
- [`𝙏𝘼𝙋 𝙃𝙀𝙍𝙀 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔 𝙊𝙉 𝙃𝙀𝙍𝙊𝙆𝙐`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD)
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
 
- <hr>
- 
+## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+<p align="center"><a href="https://ibrahim-tech-web-app-4dae45b28d62.herokuapp.com/">
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20DEPLOY%20YOUR%20BOT-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   
 ## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
 [`𝙎𝙐𝙃𝘼𝙄𝙇 𝙏𝙀𝘾𝙃`]
 
