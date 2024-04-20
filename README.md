@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+Am+Black+Panther+MD..&cat;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/01bae0068863f48aff101.jpg" alt="01" border="0" /></a>     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/af1705e9b4d6aa0bc0f96.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 <h1 align="center"><b>SCAN SESSION</b>
