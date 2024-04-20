@@ -1,4 +1,4 @@
-<h1 align="center"><b>BLACK PANTHER IS NOW FIXD ALL PROBLEMS ARE SOLVED.., BOT GOING OF AFTER SOME TIME FIEXD TO!!</b>
+<h1 align="center"><b>BLACK PANTHER IS NOW FIXED ALL PROBLEMS ARE SOLVED.., BOT GOING OFF AFTER SOME TIME FIEXD!!</b>
  
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
