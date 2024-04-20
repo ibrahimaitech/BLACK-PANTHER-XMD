@@ -54,7 +54,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-     ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)***
+   ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)***
 
 <p align="center"><a href="https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20DEPLOY%20YOUR%20BOT-grey?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
