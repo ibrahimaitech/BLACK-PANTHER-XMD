@@ -12,7 +12,7 @@
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/01bae0068863f48aff101.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<h1 align="center"><b>SCAN SESSION</b>
+<h1 align="center"><b>SCAN SESSION ID</b>
 
 
 [`TAP HERE TO SCAN PAIRING CODE`](https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/pair)
