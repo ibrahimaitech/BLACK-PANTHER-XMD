@@ -1,6 +1,7 @@
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"><b>BLACK PANTHER IS NOW FIXED ALL PROBLEMS ARE SOLVED.., BOT GOING OFF AFTER SOME TIME FIEXD!!</b>
- 
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
 <h1 align="center"><b>𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿 V4 NEW UPDATE 600 COMMANDS</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -11,6 +12,16 @@
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/933e3af7492a3ad2746b9.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
+<h1 align="center"><b>SCAN SESSION</b>
+
+[`TAP HERE TO SCAN PAIRING CODE`](https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/pair)
+
+[`TAP HERE TO SCAN QR`](https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/qr)
+  
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
  ## Join my channel for updates and get free cc
 
 
@@ -35,12 +46,12 @@
 
 4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
 
-## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿
+## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨 𝗢𝗥 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
+**[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)**
 
 <p align="center"><a href="https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20DEPLOY%20YOUR%20BOT-grey?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
