@@ -8,17 +8,6 @@
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/01bae0068863f48aff101.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<h1 align="center"><b>SCAN SESSION ID</b>
-
-
-[`TAP HERE TO SCAN PAIRING CODE`](https://black-panther-scanner-871df7205958.herokuapp.com/pair)
-
-
-
-[`TAP HERE TO SCAN QR`](https://black-panther-scanner-871df7205958.herokuapp.com/qr)
-  
-
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
  ## Join my channel for updates and get free cc
@@ -29,30 +18,34 @@
   </a>
 </p>
 
+ **`DEPLOYMENT METHODS`**
+---
+<br>
+<br>
+
+<a href="https://black-panther-scanner-871df7205958.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+
+
+<a href="https://black-panther-scanner-871df7205958.herokuapp.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
+<br>
+
+<br>
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ibrahimaitech/BLACK-PANTHER-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=prabath-md)
+<br>
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/5_3enq)
+<br>
+
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)
+
+<br>
+
+
+[![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/IBRAHIM-MD/fork)
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## STEPS TO DEPLOY YOUR BOT
 
-
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-MD/fork)
-
-2, TAP ON IBRAHIM TECH APP DOWN THERE
-
-
-
-3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
-
-
-
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
-
-## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨 𝗢𝗥 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<h1 align="center"
-
-   ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)***
 
 <p align="center"><a href="https://black-panther-scanner-871df7205958.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20DEPLOY%20YOUR%20BOT-grey?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
