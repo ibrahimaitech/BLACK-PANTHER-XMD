@@ -20,8 +20,6 @@
 
  **`DEPLOYMENT METHODS`**
 ---
-<br>
-<br>
 
 <a href="https://black-panther-scanner-871df7205958.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
@@ -34,21 +32,27 @@
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ibrahimaitech/BLACK-PANTHER-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=prabath-md)
 <br>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/5_3enq)
+## DEPLOY TO RAILWAY
+1. If You don't have an account On Railway. Create a account.
+    <br>
+<p align="center"><a href="https://railway.app"> <img src="https://img.shields.io/badge/RailWay%20Account-blue?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
+)
 <br>
+
+
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)
 
 <br>
 
 
-[![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/IBRAHIM-MD/fork)
+[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/IBRAHIM-MD/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 <p align="center"><a href="https://black-panther-scanner-871df7205958.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20DEPLOY%20YOUR%20BOT-grey?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20BLACK%20PANTHER%20APP-marron?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
 
 
 
