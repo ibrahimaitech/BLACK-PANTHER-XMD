@@ -32,8 +32,7 @@
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ibrahimaitech/BLACK-PANTHER-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=prabath-md)
 <br>
 
-
- </p> href="https://railway.app"> <img src="https://img.shields.io/badge/Deploy%20on%20Railway-blue?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
+ <p href="https://railway.app"> <img src="https://img.shields.io/badge/Deploy%20on%20Railway-blue?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
 
 <br>
 
