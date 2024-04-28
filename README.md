@@ -22,10 +22,10 @@
  **`DEPLOYMENT METHODS`**
 ---
 
-<a href="https://qr-code-panther-19894751f2f0.herokuapp.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://black-panther-scanner-871df7205958.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
-<a href="https://black-panther-scanner-871df7205958.herokuapp.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
+<a href="https://qr-code-panther-19894751f2f0.herokuapp.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
 <br>
