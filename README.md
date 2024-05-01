@@ -1,4 +1,4 @@
-<a><img src='https://telegra.ph/file/5c5ea4266faad5e29a8cb.jpg'/></a><a><img src='https://telegra.ph/file/5c5ea4266faad5e29a8cb.jpg'/></a>
+<a><img src='https://telegra.ph/file/5c5ea4266faad5e29a8cb.jpg'/></a><a><img 
 <h1 align="center"><b>𝑆𝛲𝛪𝐷𝛯𝑅𝛭𝛥𝛮 𝐵𝛩𝑇</b>
 <a><img src='https://telegra.ph/file/5ed9b960810340ebc248b.jpg'/></a>
 <p align="center">
@@ -6,7 +6,6 @@
 </p>
 <a><img src='https://telegra.ph/file/c64c825c4a61ae4987226.jpg'/></a>                       
   <a href="https://telegra.ph/file/44865c537906d4f09d86b.jpg"><img src="https://telegra.ph/file/44865c537906d4f09d86b.jpg " alt="01" border="0" /></a>     
-<a><img src='https://telegra.ph/file/3433a52b5949729873af9.jpg'/></a>
  
 
 
@@ -17,7 +16,7 @@
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-<a><img src='https://telegra.ph/file/746f3d88edeffa638ada3.jpg'/></a><a><img src='https://telegra.ph/file/746f3d88edeffa638ada3.jpg'/></a>
+<a><img src='https://telegra.ph/file/746f3d88edeffa638ada3.jpg'/></a>
 
  **`DEPLOYMENT METHODS`**
 ---
