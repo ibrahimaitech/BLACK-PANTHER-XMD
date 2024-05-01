@@ -1,12 +1,12 @@
-<a><img src='https://images.app.goo.gl/K1BpmvsKBytmsLx19'/></a><a><img src='https://images.app.goo.gl/K1BpmvsKBytmsLx19'/></a>
+<a><img src='https://telegra.ph/file/5c5ea4266faad5e29a8cb.jpg'/></a><a><img src='https://telegra.ph/file/5c5ea4266faad5e29a8cb.jpg'/></a>
 <h1 align="center"><b>𝑆𝛲𝛪𝐷𝛯𝑅𝛭𝛥𝛮 𝐵𝛩𝑇</b>
-<a><img src='https://images.app.goo.gl/K1BpmvsKBytmsLx19'/></a>
+<a><img src='https://telegra.ph/file/5ed9b960810340ebc248b.jpg'/></a>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+Am+𝑆𝛲𝛪𝐷𝛯𝑅𝛭𝛥𝛮+MD..&cat;++;Self-taught+Back-Created+By,;Cuffy+Tech+Am+The,;Best+Bot+For+You+To,;Deploy..<3"></a>
 </p>
-<a><img src='https://images.app.goo.gl/K1BpmvsKBytmsLx19'/></a>                       
-  <a href="https://images.app.goo.gl/J1uMfsMHv6GFTSGd7"><img src="https://images.app.goo.gl/bwak5d4i36Rthhsb6" alt="01" border="0" /></a>     
-<a><img src='https://images.app.goo.gl/K1BpmvsKBytmsLx19'/></a>
+<a><img src='https://telegra.ph/file/c64c825c4a61ae4987226.jpg'/></a>                       
+  <a href="https://telegra.ph/file/44865c537906d4f09d86b.jpg"><img src="https://telegra.ph/file/44865c537906d4f09d86b.jpg " alt="01" border="0" /></a>     
+<a><img src='https://telegra.ph/file/3433a52b5949729873af9.jpg'/></a>
  
 
 
