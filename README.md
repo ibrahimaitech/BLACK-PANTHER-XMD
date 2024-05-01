@@ -21,7 +21,7 @@
  **`DEPLOYMENT METHODS`**
 ---
 
-<a href="https://𝑆𝛲𝛪𝐷𝛯𝑅𝛭𝛥𝛮-scanner-871df7205958.herokuapp.com/pair"><img src="https://telegra.ph/file/44865c537906d4f09d86b.jpg/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://Ibrahim-tech-scanner-871df7205958.herokuapp.com/pair"><img src="https://telegra.ph/file/44865c537906d4f09d86b.jpg/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
 <a href="https://qr-code-cuffytech-19894751f2f0.herokuapp.com/qr"><img src="https://telegra.ph/file/44865c537906d4f09d86b.jpg/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
@@ -69,4 +69,4 @@
 
 [`𝘼𝙉𝘿 𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊 𝙈𝙀 𝙏𝙊𝙊😂`]
 
-<a><img src='https://telegra.ph/file/5c5ea4266faad5e29a8cb.jpg'/></a><a><img src='https://telegra.ph/file/5c5ea4266faad5e29a8cb.jpg'/></a>
+<a><img src='https://telegra.ph/file/5c5ea4266faad5e29a8cb.jpg'/></a> 
