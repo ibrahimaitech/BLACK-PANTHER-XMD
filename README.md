@@ -38,7 +38,7 @@
 
 [![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-Spiderman%20MD-white)](https://github.com/ibrahimaitech/IBRAHIM-MD/fork)
 
-<a><img src='https://telegra.ph/file/5c5ea4266faad5e29a8cb.jpg'/></a><a><img src='https://telegra.ph/file/5c5ea4266faad5e29a8cb.jpg'/></a>
+<a><img src='https://telegra.ph/file/5c5ea4266faad5e29a8cb.jpg'/></a>
 
 
 
