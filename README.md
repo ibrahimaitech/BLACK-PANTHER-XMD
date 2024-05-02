@@ -30,11 +30,6 @@
 
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ibrahimaitech/BLACK-PANTHER-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=panther-md)
-
-
-<br>
-
 [![Deploy on Railway](https://img.shields.io/badge/Deploy%20-on%20Railway-pink)](https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)
 
 <br>
