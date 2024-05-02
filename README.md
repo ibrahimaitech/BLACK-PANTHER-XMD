@@ -30,7 +30,7 @@
 
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ibrahimaitech/BLACK-PANTHER-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=panther-md)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/duslang/BLACK-PANTHER-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=panther-md)
 
 
 <br>
@@ -42,12 +42,12 @@
 
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/duslang/BLACK-PANTHER-MD/tree/main)
 
 <br>
 
 
-[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/IBRAHIM-MD/fork)
+[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/duslang/IBRAHIM-MD/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -76,11 +76,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
-[`𝙎𝙐𝙃𝘼𝙄𝙇 𝙏𝙀𝘾𝙃`]
 
-[`𝙂𝙄𝙁𝙏𝙀𝘿 𝙏𝙀𝘾𝙃`]
-
-[`ASTA TECH`]
 
 [`𝘼𝙉𝘿 𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊 𝙈𝙀 𝙏𝙊𝙊😂`]
 
