@@ -35,8 +35,7 @@
 
 <br>
 
-[![Deploy on Railway](https://www.Railwaycdn.com/deploy/button.svg)](https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)
-
+[![Deploy on Railway](https://img.shields.io/badge/Deploy%20-on%20Railway-pink)](https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)
 
 <br>
 
