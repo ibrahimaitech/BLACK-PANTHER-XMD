@@ -30,10 +30,9 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/eHFLu7)
 
-
 <br>
 
-<p href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
+<p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 </p>
 
