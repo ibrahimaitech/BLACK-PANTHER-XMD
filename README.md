@@ -28,13 +28,14 @@
 <a href="https://qr-code-panther-19894751f2f0.herokuapp.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/eHFLu7)
+
+
 <br>
 
-[![Deploy on Railway](https://img.shields.io/badge/Deploy%20-on%20Railway-pink)](https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)
+<p href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
-<br>
-
-
+</p>
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)
 
