@@ -28,7 +28,7 @@
 <a href="https://qr-code-panther-19894751f2f0.herokuapp.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kqO_n5?referralCode=AqkNn4)
+[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/ibrahimaitech/BLACK-PANTHER-MD)
 
 <br>
 
