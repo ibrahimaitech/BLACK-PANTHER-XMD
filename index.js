@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              BLACK PANTHER MD ..., MADE BY IBRAHIM ADAMD
+//                              BLACK PANTHER MD ..., MADE BY IBRAHIM ADAMS
 //                                    IBRAHIM TECH BEST TECH EVER
 //
 //════════════════════════════//
