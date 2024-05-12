@@ -22,7 +22,7 @@
  **`DEPLOYMENT METHODS`**
 ---
 
-<a href="https://black-panther-scanner-871df7205958.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://black-panther-app-6d384e753bee.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
 <a href="https://qr-code-panther-19894751f2f0.herokuapp.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
@@ -46,12 +46,12 @@
 <br>
 
 
-[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/IBRAHIM-MD/fork)
+[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center"><a href="https://black-panther-scanner-871df7205958.herokuapp.com/">
+<p align="center"><a href="https://black-panther-app-6d384e753bee.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20BLACK%20PANTHER%20APP-marron?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
 
 
