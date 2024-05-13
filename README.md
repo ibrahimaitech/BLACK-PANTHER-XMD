@@ -29,15 +29,11 @@
 <br>
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kingibrahimtech/Black-panther-md-x)[DEPLOY BLACK PANTHER MD X5: LATEST]
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kingibrahimtech/Black-panther-md-x)
 
 <br>
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)[DEPLOY BLACK PANTHER MD V4: OLD]
-
-<br>
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/ibrahimaitech/BLACK-PANTHER-MD)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kqO_n5?referralCode=AqkNn4)
 
 <br>
 
