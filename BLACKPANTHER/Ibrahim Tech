@@ -1,8 +1,8 @@
 {
   "__JSON__": true,
   "AUTHOR": "Ibrahim Adams",
-  "LANGUAGE": "English",
-  "LANGCODE": "en",
+  "LANGUAGE": "arabic",
+  "LANGCODE": "ar",
   "STRINGS": { 
 
       "updater": {  
@@ -26,7 +26,7 @@
           "promote": "Admin Role Given to my Darling",
           "pmallow": "*Hii,This is Ibrahim Tech Info*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
           "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ Powered by Secktor_",
-          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n Join Public Support Group : \nhttps://chat.whatsapp.com/F0HqDfJTvz66zzApYHrHHo\n\n  *Powered by IbrahimTechInfo*",
+          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n Join Public Support Group : \nhttps://chat.whatsapp.com/CFYmSvidfRz11LkZ1BC1w6\n\n  *Powered by IbrahimTechInfo*",
           "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *Powered by IbrahimTechInfo", 
           "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Ibrahim_",
           "demote": "Uhh,Admin Role Taken back",
