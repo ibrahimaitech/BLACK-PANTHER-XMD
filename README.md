@@ -55,9 +55,15 @@
  ## To Deploy Black Panther
  
 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
-𝚂𝙲𝙰𝙽 𝚂𝙴𝚂𝚂𝙸𝙾𝙽
-𝚃𝙷𝙴𝙽 𝙳𝙴𝙿𝙻𝙾𝚈 𝙾𝙽 𝙷𝙴𝚁𝙾𝙺𝚄
-𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃
+
+
+𝚂𝙲𝙰𝙽 𝚂𝙴𝚂𝚂𝙸𝙾𝙽.
+
+
+𝚃𝙷𝙴𝙽 𝙳𝙴𝙿𝙻𝙾𝚈 𝙾𝙽 𝙷𝙴𝚁𝙾𝙺𝚄.
+
+
+𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃.
 
    ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
