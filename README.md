@@ -52,7 +52,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- ## To Deploy Black Panther
+ ## How To Deploy Black Panther
  
 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
 
