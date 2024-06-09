@@ -19,8 +19,10 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- **`DEPLOYMENT METHODS`**
----
+ **`DEPLOYMENT METHODS`**-
+
+
+[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
 
 <a href="https://black-panther-app-6d384e753bee.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
@@ -29,7 +31,7 @@
 <br>
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-panther-md-x)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE/tree/main)
 
 <br>
 
@@ -39,10 +41,6 @@
 
 <p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
-<br>
-
-
-[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -54,6 +52,12 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+ ## To Deploy Black Panther
+ 
+𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
+𝚂𝙲𝙰𝙽 𝚂𝙴𝚂𝚂𝙸𝙾𝙽
+𝚃𝙷𝙴𝙽 𝙳𝙴𝙿𝙻𝙾𝚈 𝙾𝙽 𝙷𝙴𝚁𝙾𝙺𝚄
+𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃
 
    ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
