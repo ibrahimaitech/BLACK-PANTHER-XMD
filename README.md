@@ -24,11 +24,11 @@
 
 [![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
 
-<a href="https://ibrahim-tech-qr-1-2-1.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+ <h1 align="center">  SESSION SITE 
 
 
-<a href="https://ibrahim-tech-qr-1-2-1.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
-<br>
+
+  ***[`TAP HERE YOU OPEN SESSION SITE`](https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main)***
 
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE/tree/main)
@@ -40,14 +40,6 @@
 <br>
 
 <p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-<p align="center"><a href="https://ibrahim-tech-qr-1-2-1.onrender.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20BLACK%20PANTHER%20APP-marron?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
-
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
