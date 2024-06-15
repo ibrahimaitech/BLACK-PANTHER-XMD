@@ -61,7 +61,7 @@
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
 | Multi-Device Support             | Operate the bot on multiple devices simultaneously     | ✅           | 2.0        |
-| AI Photo Enhancement             | Enhance photos using advanced AI algorithms            | ✅           | 2.0        |
+| AI Photo Enhancement             | Enhance photos using advanced AI algorithms and use less data            | ✅           | 2.0        |
 | Downloader Commands              | Download various types of content from the internet     | ✅           | 2.0        |
 | Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 2.0        |
 | Logo Commands                    | Generate logos using specialized commands               | ✅           | 2.0        |
@@ -80,3 +80,5 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+/view unsent messages within  the bot
+/identifie unknown numbers           2.0
