@@ -19,26 +19,26 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- **`DEPLOYMENT METHODS`**-
+ ## DEPLOYMENT METHODS
 
-
+# .1
 [![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
 
- <h1 align="center">  SESSION SITE 
+ 
+# .2
+<a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-
-
-  ***[`TAP HERE YOU OPEN SESSION SITE`](https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main)***
-
-
+# .3
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE/tree/main)
 
 <br>
 
+ # .4
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kqO_n5?referralCode=AqkNn4)
 
 <br>
 
+# .5
 <p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
 
