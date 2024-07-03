@@ -26,7 +26,7 @@
 
  
 # .2
-<a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://telegra.ph/file/f466c0ee22a7b51ffd8d4.jpg"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 # .3
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE/tree/main)
