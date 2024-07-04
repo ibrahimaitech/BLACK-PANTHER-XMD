@@ -31,7 +31,7 @@
 
 # .4
 
-<a href="https://github.com/kingibrahimtech/Error"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOY-ON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/kingibrahimtech/Error"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 # .5
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://telegra.ph/file/f466c0ee22a7b51ffd8d4.jpg)
