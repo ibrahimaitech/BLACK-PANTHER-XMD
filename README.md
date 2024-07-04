@@ -29,16 +29,20 @@
 <a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 # .3
+
+<a href="https://github.com/kingibrahimtech/Error"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOY-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+# .4
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://telegra.ph/file/f466c0ee22a7b51ffd8d4.jpg)
 
 <br>
 
- # .4
+ # .5
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kqO_n5?referralCode=AqkNn4)
 
 <br>
 
-# .5
+# .6
 <p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
 
